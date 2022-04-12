@@ -1,0 +1,19 @@
+.odd-elements {
+    background-color: #e790a3;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-elements.cooler {
+    font-size: 24px;
+}
+
+#oneID {
+    color: #2442e9;
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: #70d381;
+    font-size: 24px;
+    font-weight: bold;
+}
